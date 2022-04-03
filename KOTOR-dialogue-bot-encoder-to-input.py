@@ -7,12 +7,10 @@
 import torch
 import torch.nn as nn
 import torch.optim as optim
-import torchtext
 from math import ceil, floor
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 
 import os
 import urllib
